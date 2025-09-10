@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png" alt="Hi, I'm Mouli!" width="100%">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png" alt="Hi, I'm VexBlade!" width="100%">
 </p>
 
-# 👋 Hey there, I'm Mouli  
+# 👋 Hey there, I'm VexBlade  
 
 💻 **AI & Simulation Developer** | 🎮 Passionate about **Game-like Simulations** | 🚀 Always learning  
 
