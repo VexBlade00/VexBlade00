@@ -1,66 +1,66 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-link-here.png" alt="Olá! Eu sou [Your Name]" />
+  <img src="https://your-custom-banner-link.png" alt="Hello, I'm [Your Name]" />
 </p>
 
-<!-- Profile Views, Stats -->
+<!-- Profile Views & Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUser&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-  <img src="https://img.shields.io/github/followers/YourGitHubUser?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUser&label=Profile%20views&color=8A2BE2&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/YourGitHubUser?label=Followers&style=social" alt="Followers" />
 </p>
 
 ---
 
-## 👤 Quem Sou Eu?
+## 👾 Who Am I?
 
-Sou estudante de **[sua área de estudo]** e apaixonado por **tecnologia, inovação e desenvolvimento de software**.  
-Minha jornada começou com curiosidade em criar soluções criativas para problemas reais e, desde então, venho explorando o mundo da programação. 🚀  
+I’m a **Full Stack Developer in training** passionate about building **creative, functional, and futuristic projects**.  
+My journey in tech started out of curiosity, and now I explore programming as a way to bring ideas to life.  
 
-- 🎓 Estudando **[Curso ou Área]**  
-- 💻 Interessado em **Full Stack Development**  
-- 🌱 Atualmente aprendendo **[tecnologias que está estudando]**  
-- 🎮 Nas horas vagas: gosto de explorar, jogar e aprender coisas novas  
-
----
-
-## 🌟 Um Pouco Mais Sobre Mim
-
-- 😃 Gosto de estar cercado por pessoas criativas que me desafiam a crescer  
-- 🤝 Sempre disposto a ajudar e compartilhar conhecimento  
-- 🎨 Minimalista e apaixonado por design  
-- 🎧 Amante de música (adicione seu Spotify, se quiser)  
-
-📫 Contato:  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)
-[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/seuspotify)
+- 🎓 Currently studying **[Your field]**  
+- 💻 Focused on **React | Node.js | Python | PostgreSQL**  
+- 🌱 Learning more about **AI, APIs, and performance optimization**  
+- 🎮 When I’m not coding: I play games, explore design, or experiment with music  
 
 ---
 
-## 📊 GitHub Status
+## ⚡ A Little More About Me
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUser&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUser&theme=tokyonight" />
-</p>
+- 🚀 I enjoy challenges that push me out of my comfort zone  
+- 🤝 Always open to collaboration and learning together  
+- 🖤 Cyberpunk & minimalism enthusiast  
+- 🎧 Music fuels my workflow  
+
+📫 Connect with me:  
+[![Gmail](https://img.shields.io/badge/-Gmail-8A2BE2?style=flat&logo=Gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-39FF14?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Spotify](https://img.shields.io/badge/-Spotify-39FF14?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/yourspotify)
 
 ---
 
-## 🛠️ Minhas Stacks
+## GitHub Status
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,cpp,postgresql,mysql,git,figma,vscode,linux" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUser&show_icons=true&theme=radical&title_color=39FF14&icon_color=8A2BE2&text_color=ffffff&bg_color=000000" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUser&theme=radical&ring=39FF14&fire=8A2BE2&currStreakLabel=39FF14&background=000000&dates=ffffff" />
 </p>
 
 ---
 
-## 📂 Meus Melhores Repositórios
+## 🛠 My Tech Stack
 
-- 🚀 [**SPACED**](https://github.com/YourGitHubUser/SPACED) — Site usando APIs da NASA com foco em astronomia  
-- 🎉 [**Supla-Events**](https://github.com/YourGitHubUser/Supla-Events) — Sistema de eventos acadêmicos  
-- 🧠 [**WhatsTheLanguage**](https://github.com/YourGitHubUser/WhatsTheLanguage) — Projeto focado em análise e reconhecimento de idiomas  
-- 🍽️ [**Tapiocaia**](https://github.com/YourGitHubUser/Tapiocaia) — Aplicativo para cardápios digitais  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,cpp,postgres,mysql,git,figma,vscode,linux&theme=dark" />
+</p>
 
 ---
 
-⭐️ Feito com dedicação por [Seu Nome](https://github.com/YourGitHubUser)
+## 🚀 Featured Projects
+
+- 🛰️ [**SPACED**](https://github.com/YourGitHubUser/SPACED) — Astronomy project using NASA APIs  
+- 🎉 [**Supla-Events**](https://github.com/YourGitHubUser/Supla-Events) — University event management system  
+- 🧠 [**WhatsTheLanguage**](https://github.com/YourGitHubUser/WhatsTheLanguage) — Language recognition tool  
+- 🍜 [**Tapiocaia**](https://github.com/YourGitHubUser/Tapiocaia) — Digital menu application  
+
+---
+
+⭐ Designed with a neon cyberpunk aesthetic by [Your Name](https://github.com/YourGitHubUser)  
