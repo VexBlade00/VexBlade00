@@ -52,12 +52,8 @@ My journey in tech started out of curiosity, and now I explore programming as a 
 ---
 
 ## 🚀 Featured Projects
-
-- 🛰️ [**SPACED**](https://github.com/YourGitHubUser/SPACED) — Astronomy project using NASA APIs  
+  
 - 🎉 [**Supla-Events**](https://github.com/YourGitHubUser/Supla-Events) — University event management system  
 - 🧠 [**WhatsTheLanguage**](https://github.com/YourGitHubUser/WhatsTheLanguage) — Language recognition tool  
 - 🍜 [**Tapiocaia**](https://github.com/YourGitHubUser/Tapiocaia) — Digital menu application  
 
----
-
-⭐ Designed with a neon cyberpunk aesthetic by [Your Name](https://github.com/YourGitHubUser)  
