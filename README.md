@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-custom-banner-link.png" alt="Hello, I'm [Your Name]" />
+  <img src="https://your-custom-banner-link.png" alt="Hello, I'm Koala" />
 </p>
 
 <!-- Profile Views & Stats -->
@@ -15,9 +15,7 @@
 
 I’m a **Full Stack Developer in training** passionate about building **creative, functional, and futuristic projects**.  
 My journey in tech started out of curiosity, and now I explore programming as a way to bring ideas to life.  
-
-- 🎓 Currently studying **[Your field]**  
-- 💻 Focused on **React | Node.js | Python | PostgreSQL**  
+ 
 - 🌱 Learning more about **AI, APIs, and performance optimization**  
 - 🎮 When I’m not coding: I play games, explore design, or experiment with music  
 
@@ -31,9 +29,8 @@ My journey in tech started out of curiosity, and now I explore programming as a 
 - 🎧 Music fuels my workflow  
 
 📫 Connect with me:  
-[![Gmail](https://img.shields.io/badge/-Gmail-8A2BE2?style=flat&logo=Gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-39FF14?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Spotify](https://img.shields.io/badge/-Spotify-39FF14?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/yourspotify)
+[![Gmail](https://img.shields.io/badge/-Gmail-8A2BE2?style=flat&logo=Gmail&logoColor=white)](mailto:vexblade00@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-39FF14?style=flat&logo=Linkedin&logoColor=white)]()
 
 ---
 
@@ -49,7 +46,7 @@ My journey in tech started out of curiosity, and now I explore programming as a 
 ## 🛠 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,cpp,postgres,mysql,git,figma,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,cpp,postgres,mysql,git,vscode,linux&theme=dark" />
 </p>
 
 ---
